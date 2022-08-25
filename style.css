@@ -1,0 +1,81 @@
+header{
+    background: url(imagenes/fondo\ arriba.jpg);
+    padding: 30px;
+}
+
+.formato{
+
+position: relative;
+width: 940px;
+margin: 0 auto;
+}
+
+.formato img{
+    width: 15%;
+    height: 20%;
+
+}
+
+nav li:hover{
+    color: orange;
+
+}
+
+nav {
+    position: absolute;
+    right: 280px;
+    top: 90px;
+    
+}
+nav li{
+    display: inline;
+    margin: 20px;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+main{
+
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+h1 em{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+main{
+    background: url(/Imagenes/fondo2.jpg)
+
+}
+
+.conociendo {
+
+    width: 940px;
+    margin: 0 auto;
+    padding: 40px;
+   
+}
+
+.conociendo li {
+    display: inline-block;
+    width: 33%;
+    vertical-align: top;
+    padding: 40px 10px;
+    box-sizing: border-box;
+    text-align: center;
+   
+
+}
+
+.nombres{
+    padding-top: 10px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+}
